@@ -10,7 +10,7 @@ Most of my applications hosted on Github were created during my time at UConn's 
 
 - :ship: [Battleship](https://github.com/gmpaier/Battleship) - Collaborative project I was the lead on. Allows two users to play the classic boardgame "battleship" over the application on seperate devices. This application was created without learning how to have two users directly communicate; instead, one user will post their move to a central database, and the opponent checks the database for updates until it is their turn. *Unstable deployment!* Currently updating project in my free time using [Socket IO](https://www.npmjs.com/package/socket.io) to provide true direct user connection. See my progress at [Battleship-IO](https://github.com/gmpaier/battleship-io).
 
-__
+___
 
 ### About Me
 
@@ -20,7 +20,7 @@ __
 
 - :dart: My favorite form of entertainment are games, whether it be board games, video games, or athletics. Most recently, I was a member of the New Haven dart league. With my background in Economics and Game Theory, there's even cross over between my professional and recreational interests.
 
-__
+___
 
 ### Contact
 
@@ -30,7 +30,7 @@ Want to get in touch with me concerning an opportunity or collaboration? You can
 
 - [Email](mailto:gmpaier@loyola.edu)
 
-__
+___
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=gmpaier&hide_rank=true&hide=stars&hide_title=true&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
