@@ -14,7 +14,7 @@ ___
 
 ### About Me
 
-- :closed_book: I'm an avid reader of philosophy, I especially enjoy metaphysics and philosophy of language. My personal favorite philosopher is Jacques Derrida.
+- :closed_book: I'm an avid reader of philosophy, I especially enjoy metaphysics and philosophy of language. My personal favorite philosophy book is Jacques Derrida's *Of Grammatology*.
 
 - :guitar: I love listening to and learning about music. I'll memorize trivia about my favorite artists and producers. Sometimes I even make my own music; maybe someday I'll let someone hear it!
 
