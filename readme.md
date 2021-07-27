@@ -1,6 +1,6 @@
 ## Welcome to my Github!
 
-My name is Griffin Paier and I'm a Data Analyst with a focus on methodology and Economics. I have a B.A. in Quantitative Economics from Loyola University Maryland and recently completed a Full Stack Web Development bootcamp through the University of Connecticut's School of Engineering.
+My name is Griffin Paier and I'm a junior Data Analyst with a focus on methodology and Economics. I have a B.A. in Quantitative Economics from Loyola University Maryland and recently completed a Full Stack Web Development bootcamp through the University of Connecticut's School of Engineering.
 
 Most of my applications hosted on Github were created during my time at UConn's coding bootcamp, and primarily utilize HTML, CSS, JavaScript, Node.JS, MySQL/Sequelize, MongoDB/Mongoose, Express, and React, among other technologies.
 
