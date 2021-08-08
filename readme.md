@@ -16,7 +16,7 @@ ___
 
 - :closed_book: I'm an avid reader of philosophy, I especially enjoy metaphysics and philosophy of language. My personal favorite philosophy book is Jacques Derrida's *Of Grammatology*.
 
-- :guitar: I love listening to and learning about music. I'll memorize trivia about my favorite artists and producers and I've studied Music Theory. Sometimes I even make my own music; maybe someday I'll let someone hear it!
+- :guitar: I love listening to and learning about music. I'll memorize trivia about my favorite artists and producers and I've studied Music Theory. Occasionally, I even make my own music; maybe someday I'll let someone hear it!
 
 - :dart: My favorite form of entertainment are games, whether it be board games, video games, or athletics. Most recently, I was a member of the New Haven dart league. With my background in Economics and Game Theory, there's even cross over between my professional and recreational interests.
 
